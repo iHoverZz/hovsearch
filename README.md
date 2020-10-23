@@ -1,6 +1,6 @@
 # hovsearch
 
-hovsearch is a Python Module to download youtube videos.
+hovsearch is a Python Module to download and search youtube videos.
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install hoversearch.
